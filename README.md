@@ -1,16 +1,27 @@
-### Hi there 👋
+# ![Alt text](./1.svg) Hi ![Alt text](./1.svg)
+>
+>**I'm Mohamed Ramadan El-Mezayen**.
+>
+>>front-end Developer in/future.hope
+---
 
-**M0hamad-Ramadan/M0hamad-Ramadan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I possess knowledge in
 
-Here are some ideas to get you started:
+- ![Alt text](./html.svg)
+- ![Alt text](./css.svg)
+- ![Alt text](./js.svg)
+- ![Alt text](./sv.svg)
+- ![Alt text](./react.svg) ![Alt text](./load.svg)
+-  I am familiar with Data Structures and Algorithm basics.
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+![Alt text](./time.svg) ``What do I do during my day?``
 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+On a daily basis, I engage in practical exercises involving JavaScript, CSS3, and HTML5.
+I enjoy applying my programming knowledge in JavaScript.
 
+``Looking ahead, I aspire to refactor my projects using React.``
+
+>Yes, I learn slowly, but because I want to understand, not memorize
+>
+>>While I acknowledge that there is much to learn, especially in terms of JavaScript frameworks, I prioritize comprehension over rote memorization. I believe in learning through practical application, as it fosters a deeper understanding. I view this approach not as a flaw, but as my strength.

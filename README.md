@@ -10,7 +10,6 @@ I possess knowledge in
 - ![Alt text](./html.svg)
 - ![Alt text](./css.svg)
 - ![Alt text](./js.svg)
-- ![Alt text](./sv.svg)
 - ![Alt text](./react.svg) ![Alt text](./load.svg)
 -  I am familiar with Data Structures and Algorithm basics.
 ---
